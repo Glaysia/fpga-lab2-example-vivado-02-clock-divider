@@ -1,0 +1,19 @@
+{
+  "path": "vivado_2026_1/02_clock_divider",
+  "tool": "Vivado 2026.1 XSim",
+  "execution": "batch, no GUI",
+  "status": "PASS",
+  "marker": "LAB2_PASS clock_divider checks=129",
+  "commands_exit_code": [
+    0,
+    0,
+    0
+  ],
+  "inputs_sha256": {
+    "src/clock_divider.v": "7c8863c2d840cfe2cdf73353c0333f32359a813aef9af3d8e4a7ad1941589556",
+    "src/input_frontend.v": "a866edb1f9b3477914c19a8c6bf237d885348348dd18582dca14e410d622a337",
+    "src/lab2_clock_divider.v": "8b518a4017aabcf13e9ffd5fce2d1c8032fe9ef6569176083897fdad9f000a14",
+    "sim/tb_clock_divider.sv": "1a18d85d870139717f6190caf6c016def9c67d7be42ec51e20f2732cef19abb0"
+  },
+  "run_directory": "tmp/lab2-xsim/02_clock_divider-1789046415416435700"
+}

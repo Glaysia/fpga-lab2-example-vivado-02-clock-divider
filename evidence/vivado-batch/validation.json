@@ -1,0 +1,21 @@
+{
+  "project": "vivado_2026_1/02_clock_divider",
+  "top": "lab2_clock_divider",
+  "part": "xc7s75fgga484-1",
+  "execution": "Vivado 2026.1 batch, no GUI",
+  "exit_code": 0,
+  "seconds": 202.16,
+  "run_directory": "tmp/lab2-vivado/02_clock_divider-1789046394030511000",
+  "inputs_sha256": {
+    "src/clock_divider.v": "7c8863c2d840cfe2cdf73353c0333f32359a813aef9af3d8e4a7ad1941589556",
+    "src/input_frontend.v": "a866edb1f9b3477914c19a8c6bf237d885348348dd18582dca14e410d622a337",
+    "src/lab2_clock_divider.v": "8b518a4017aabcf13e9ffd5fce2d1c8032fe9ef6569176083897fdad9f000a14",
+    "constraints/lab2_clock_divider.xdc": "c409037fe63f53243e0cf24aac389f3a2d3669f676ce7c1babe52059585af5a5"
+  },
+  "status": "PASS",
+  "bitstream": {
+    "file": "lab2_clock_divider.bit",
+    "bytes": 3687021,
+    "sha256": "55e6a83ba3d684b0639da13f00778f423085560464ea5010d176f131bc27919f"
+  }
+}
